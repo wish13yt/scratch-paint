@@ -1,6 +1,6 @@
 {
   "name": "scratch-paint",
-  "version": "2.2.501",
+  "version": "2.2.502",
   "description": "Graphical User Interface for the Scratch 3.0 paint editor, which is used to make and edit sprites for use in projects.",
   "main": "./dist/scratch-paint.js",
   "browser": "./src/index.js",
@@ -94,7 +94,7 @@
     "redux-throttle": "0.1.1",
     "regenerator-runtime": "0.13.9",
     "rimraf": "2.7.1",
-    "scratch-l10n": "4.0.30",
+    "scratch-l10n": "4.0.31",
     "scratch-render-fonts": "1.0.127",
     "scratch-semantic-release-config": "1.0.16",
     "semantic-release": "19.0.5",
